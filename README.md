@@ -126,25 +126,6 @@ Stars: ⭐ [Check GitHub]
 
 ### ⚡ Lightweight Alternatives
 
-#### [nanoClaw](https://github.com/ysz/nanoClaw)
-
-> Easy install, Ultra-lightweight secure AI assistant. Inspired by OpenClaw. 🦀
-
-```yaml
-Language: Python
-Code: ~4,281 LOC
-VS OpenClaw: 99% smaller, 10x faster to deploy
-```
-
-**Why It's Awesome:**
-- 🔒 Container isolation for security-first design
-- 🚀 Powered by Claude Code as core engine
-- 💻 CLI-first, dead simple to use
-- ✅ Two-minute deployment
-
-**Best For:** Security-conscious users who want things **to just work**™
-
----
 
 #### [nanobot](https://github.com/HKUDS/nanobot)
 
@@ -306,6 +287,27 @@ Platforms: All the chats
 - 🔥 Inspired by the best
 
 **Best For:** Developers who want performance **where conversations happen**
+
+---
+
+
+#### [nanoClaw](https://github.com/ysz/nanoClaw)
+
+> Easy install, Ultra-lightweight secure AI assistant. Inspired by OpenClaw. 🦀
+
+```yaml
+Language: Python
+Code: ~4,281 LOC
+VS OpenClaw: 99% smaller, 10x faster to deploy
+```
+
+**Why It's Awesome:**
+- 🔒 Container isolation for security-first design
+- 🚀 Powered by Claude Code as core engine
+- 💻 CLI-first, dead simple to use
+- ✅ Two-minute deployment
+
+**Best For:** Security-conscious users who want things **to just work**™
 
 ---
 
