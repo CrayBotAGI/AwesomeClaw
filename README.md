@@ -101,7 +101,9 @@ Based on user-provided data, here's all projects categorized:
 
 ### 🦞 Core Projects
 
-#### [OpenClaw](https://github.com/openclaw/openclaw)   Recommand:⭐⭐⭐⭐⭐   All lobster criminal activities originate from here
+#### [OpenClaw](https://github.com/openclaw/openclaw)   
+Recommand:⭐⭐⭐⭐⭐   
+All lobster criminal activities originate from here
 
 > The origin of all lobster universes. 🦞
 
@@ -127,7 +129,9 @@ Stars: ⭐ [Check GitHub]
 ### ⚡ Lightweight Alternatives
 
 
-#### [nanobot](https://github.com/HKUDS/nanobot)   Recommand:⭐⭐⭐⭐⭐   If you want to deeply understand the openclaw system, this project is absolutely excellent! Everything is in there!
+#### [nanobot](https://github.com/HKUDS/nanobot)   
+Recommand:⭐⭐⭐⭐⭐   
+If you want to deeply understand the openclaw system, this project is absolutely excellent! Everything is in there!
 
 > Ultra-lightweight personal AI assistant | 超轻量级个人 AI 助理
 
@@ -150,7 +154,9 @@ Code: ~3,428 LOC (99.2% leaner than OpenClaw)
 
 ---
 
-#### [ZeroClaw](https://github.com/brooks376/zeroclaw.bot)  Recommand:⭐⭐⭐⭐   A rather outstanding openclaw Rust rewrite version!
+#### [ZeroClaw](https://github.com/brooks376/zeroclaw.bot)  
+Recommand:⭐⭐⭐⭐   
+A rather outstanding openclaw Rust rewrite version!
 
 > High‑performance, open‑source AI agent framework built in Rust.
 
@@ -171,7 +177,9 @@ Startup: ⚡ Blink-and-you-miss-it fast
 
 ---
 
-#### [picoclaw](https://github.com/sipeed/picoclaw) Recommand:⭐⭐⭐⭐  An extremely lightweight openclaw in Go reset version from renowned embedded manufacturer spieed
+#### [picoclaw](https://github.com/sipeed/picoclaw)   
+Recommand:⭐⭐⭐⭐   
+An extremely lightweight openclaw in Go reset version from renowned embedded manufacturer spieed
 
 > Run OpenClaw on $5 chip. No OS. No Node.js. No Mac mini.
 
@@ -191,7 +199,9 @@ OS: None. Bare metal baby! 🔥
 
 ---
 
-#### [mimiclaw](https://github.com/memovai/mimiclaw)  Recommand:⭐⭐⭐⭐⭐    Oh my god, running openclaw on a real embedded device? You must be kidding me!
+#### [mimiclaw](https://github.com/memovai/mimiclaw)   
+Recommand:⭐⭐⭐⭐⭐    
+Oh my god, running openclaw on a real embedded device? You must be kidding me!
 
 > MimiClaw: Run OpenClaw on a $5 chip. No OS(Linux). No Node.js.
 
@@ -211,7 +221,9 @@ VS picoclaw: Smarter, because why not? 🧠
 
 ---
 
-#### [moltis](https://github.com/moltis-org/moltis) Recommand:⭐⭐⭐⭐  Another option instead of Openclaw
+#### [moltis](https://github.com/moltis-org/moltis)   
+Recommand:⭐⭐⭐⭐   
+Another option instead of Openclaw
 
 > A personal AI assistant built in Rust. Single binary, multi-provider LLMs.
 
@@ -233,7 +245,9 @@ Features: Full-stack Rust experience
 
 ---
 
-#### [bashobot](https://github.com/uraimo/bashobot)  Recommand:⭐⭐  Funny project but,not so popular...
+#### [bashobot](https://github.com/uraimo/bashobot)    
+Recommand:⭐⭐   
+Funny project but,not so popular...
 
 > An OpenClaw inspired personal assistant in 100% Bash.
 
@@ -253,7 +267,9 @@ Dependencies: None. Zero. Nada.
 
 ---
 
-#### [microclaw](https://github.com/microclaw/microclaw)   Recommand:⭐⭐⭐  have not try,but it have a full GUI.
+#### [microclaw](https://github.com/microclaw/microclaw)    
+Recommand:⭐⭐⭐   
+have not try,but it have a full GUI.
 
 > An agentic AI assistant that lives in your Telegram/Discord/Slack/Feishu chats.
 
@@ -273,7 +289,9 @@ Platforms: All the chats
 ---
 
 
-#### [nanoClaw](https://github.com/ysz/nanoClaw)  Recommand:⭐  not so popular rebuilt project
+#### [nanoClaw](https://github.com/ysz/nanoClaw)   
+Recommand:⭐   
+not so popular rebuilt project
 
 > Easy install, Ultra-lightweight secure AI assistant. Inspired by OpenClaw. 🦀
 
@@ -293,7 +311,9 @@ VS OpenClaw: 99% smaller, 10x faster to deploy
 
 ---
 
-#### [goclaw](https://github.com/smallnest/goclaw)  Recommand:⭐⭐  but we already have PicoClaw?
+#### [goclaw](https://github.com/smallnest/goclaw)   
+Recommand:⭐⭐   
+but we already have PicoClaw?
 
 > An open-source AI assistant framework like openclaw.
 
@@ -313,7 +333,9 @@ Channels: Telegram + Feishu
 
 ---
 
-#### [liteclaw](https://github.com/liteclaw/liteclaw)  Recommand:⭐  but we already have PicoClaw?
+#### [liteclaw](https://github.com/liteclaw/liteclaw)   
+Recommand:⭐   
+but we already have PicoClaw?
 
 > High-performance, single-binary rewrite of OpenClaw in Golang.
 
@@ -332,7 +354,9 @@ Target: Lightweight Go reimplementation
 
 ---
 
-#### [rustclaw](https://github.com/shimaenaga1123/rustclaw)   Recommand:⭐  seems a pure VIBECODING project.but we already have ZeroClaw?
+#### [rustclaw](https://github.com/shimaenaga1123/rustclaw)    
+Recommand:⭐  
+seems a pure VIBECODING project.but we already have ZeroClaw?
 
 > A lightweight, memory-aware Discord AI assistant powered by Anthropic-compatible APIs.
 
@@ -351,7 +375,9 @@ API: Anthropic-compatible
 
 ---
 
-#### [miniclawd](https://github.com/FoundDream/miniclawd)  Recommand:⭐⭐ GUI is good,not so popular,you can try it,i have not try
+#### [miniclawd](https://github.com/FoundDream/miniclawd)   
+Recommand:⭐⭐   
+GUI is good,not so popular,you can try it,i have not try
 
 > A lightweight openclaw build with TypeScript.
 
@@ -370,7 +396,9 @@ Target: TypeScript developers
 
 ---
 
-#### [secure-openclaw](https://github.com/ComposioHQ/secure-openclaw)   Recommand:⭐⭐⭐⭐  trust me,sucure is also important!
+#### [secure-openclaw](https://github.com/ComposioHQ/secure-openclaw)    
+Recommand:⭐⭐⭐⭐   
+trust me,sucure is also important!
 
 > A personal 24x7 AI assistant like OpenClaw on messaging platforms.
 
@@ -390,7 +418,9 @@ Channels: WhatsApp, Telegram, Signal, iMessage
 ---
 
 
-#### [myclaw](https://github.com/stellarlinkco/myclaw)  Recommand:⭐  VIBE PROJECT.It looks no different from an ordinary openclaw
+#### [myclaw](https://github.com/stellarlinkco/myclaw)   
+Recommand:⭐   
+VIBE PROJECT.It looks no different from an ordinary openclaw
 
 > Self-hosted AI Agent Gateway written in Go
 
@@ -411,7 +441,9 @@ Code: ~2,000 LOC core
 
 ### 🏢 Enterprise Platforms
 
-#### [Dify](https://github.com/langgenius/dify)  Recommand:⭐  Not Agentic Agent platform,just Ordinary performance
+#### [Dify](https://github.com/langgenius/dify)   
+Recommand:⭐   
+Not Agentic Agent platform,just Ordinary performance
 
 > Production-ready platform for agentic workflow development.
 
@@ -432,7 +464,9 @@ Deployment: Docker/K8s
 
 ---
 
-#### [openakita](https://github.com/openakita/openakita)  Recommand:⭐⭐⭐   An out-of-the-box agent platform, looks good
+#### [openakita](https://github.com/openakita/openakita)   
+Recommand:⭐⭐⭐   
+An out-of-the-box agent platform, looks good
 
 > An open-source AI assistant framework with skills and agent architecture.
 
