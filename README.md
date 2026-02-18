@@ -27,8 +27,9 @@ OpenClaw is powerful but massive: **430,000+ lines of TypeScript**. Not everyone
 │  HEAVY ──────► MEDIUM ──────► LIGHT ──────► MICRO ──────► EDGE CHIP │
 │                                                                      │
 │  [🦞 430K  ] [🦀 40K    ] [⚡ 4K     ] [💻 2K     ] [🔌 5$     ] │
-│   OpenClaw                nanoClaw    bashobot    picoclaw        │
-│               moltis      nanobot     myclaw      mimiclaw        │
+│   OpenClaw                nanoClaw    bashobot    zeroclaw
+                                        myclaw       picoclaw        │
+│               moltis      nanobot                  mimiclaw        │
 │                                                                      │
 └─────────────────────────────────────────────────────────────────────┘
 ```
