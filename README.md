@@ -53,51 +53,7 @@ OpenClaw is powerful but massive: **430,000+ lines of TypeScript**. Not everyone
 
 ---
 
-## 📋 Commercial Claws
-
-
-### Direct Competitors (Same Lane)
-
-| Project | Company | Type | GitHub/Web |
-|---------|--------|------|------------|
-| **KimiClaw** | 月之暗面 | Commercial | TBD |
-| **CoPaw** | 阿里云通义 | Commercial | TBD |
-
-### Lightweight Alternatives
-
-| Project | Dev | Lang | Code Size | GitHub |
-|---------|-----|------|-----------|--------|
-| **nanobot** | HKUDS | Python | ~3,428 LOC | [GitHub](https://github.com/HKUDS/nanobot) |
-| **myclaw** | 星纬智联 | Go | ~2,000 LOC | [GitHub](https://github.com/stellarlinkco/myclaw) |
-| **ZeroClaw** | Community | Rust | ~3.4MB binary | [GitHub](https://github.com/brooks376/zeroclaw.bot) |
-| **NanoClaw** | Community | Python | ~4,281 LOC | [GitHub](https://github.com/ysz/nanoClaw) |
-
-### Enterprise Alternatives
-
-| Project | Company | Type | GitHub/Web |
-|---------|--------|------|------------|
-| **实在 Agent** | 实在智能 | Commercial | TBD |
-| **QoderWork** | 阿里 | Commercial | TBD |
-| **Coze** | 字节跳动 | Commercial | https://www.coze.cn |
-| **Dify** | langgenius | Open Source | [GitHub](https://github.com/langgenius/dify) |
-| **腾讯云 ADP** | 腾讯云 | Commercial | TBD |
-
-### OpenClaw Ecosystem Derivatives
-
-| Project | Description | GitHub |
-|---------|-------------|--------|
-| **OpenClawInstaller** | One-click terminal deployment | [GitHub](https://github.com/sdwadsagw/OpenClawInstaller) |
-| **OneClaw** | Zero-threshold desktop for beginners | [GitHub](https://github.com/oneclaw/oneclaw) |
-| **Awesome OpenClaw Skills** | Curated 565+ skills collection | [GitHub](https://github.com/VoltAgent/awesome-openclaw-skills) |
-| **MoltWorker** | Cloud deployment, liberate local hardware | [GitHub](https://github.com/cloudflare/moltworker) |
-| **memU** | OpenClaw's long-term memory layer | [GitHub](https://github.com/NevaMind-AI/memU) |
-| **Clawra** | Open-source AI girlfriend | [GitHub](https://github.com/openclaw-girl-agent/openclaw-ai-girlfriend-by-clawra) |
-| **picoclaw** | Run on $5 chip. No OS. No Node.js. | [GitHub](https://github.com/sipeed/picoclaw) |
-| **mimiclaw** | Run on $5 chip (smarter) | [GitHub](https://github.com/memovai/mimiclaw) |
-
----
-
-## 🦞 Open Source Projects
+## 🦞 Claw Projects
 
 ### 🦞 Core Projects
 
