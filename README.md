@@ -101,7 +101,7 @@ Based on user-provided data, here's all projects categorized:
 
 ### 🦞 Core Projects
 
-#### [OpenClaw](https://github.com/openclaw/openclaw)   Recommand:⭐⭐⭐⭐⭐
+#### [OpenClaw](https://github.com/openclaw/openclaw)   Recommand:⭐⭐⭐⭐⭐   All lobster criminal activities originate from here
 
 > The origin of all lobster universes. 🦞
 
