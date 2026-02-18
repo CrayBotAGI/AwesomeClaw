@@ -53,9 +53,8 @@ OpenClaw is powerful but massive: **430,000+ lines of TypeScript**. Not everyone
 
 ---
 
-## 📋 Original Document Overview
+## 📋 Commercial Claws
 
-Based on user-provided data, here's all projects categorized:
 
 ### Direct Competitors (Same Lane)
 
